@@ -1,4 +1,4 @@
-# 🤖 AI Data Analyst - Workplete Internship Project
+# 🤖 AI Data Analyst Project
 
 This project is a prototype of an **AI employee** designed to assist with **data analysis and reporting**. It can:
 
